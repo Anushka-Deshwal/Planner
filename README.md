@@ -1,16 +1,33 @@
-# React + Vite
+# 🌸 Campus Planner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> 🚧 **Project Under Development**
 
-Currently, two official plugins are available:
+Campus Planner is a modern and aesthetic productivity web application designed to help students organize their academic life in one place.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This project is currently under active development. New features, UI improvements, and backend functionality are being implemented regularly.
 
-## React Compiler
+## Current Progress
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- ✅ Project Setup
+- ✅ React + Vite Configuration
+- ✅ Tailwind CSS Integration
+- ✅ Base Application Layout
+- ✅ Sidebar
+- ✅ Navbar
+- ✅ Dashboard UI
 
-## Expanding the ESLint configuration
+## Coming Soon
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📋 Task Management
+- 📅 Calendar
+- 🌱 Habit Tracker
+- 📝 Notes
+- 📊 Analytics
+- 🌙 Dark Mode
+- 🔐 Authentication
+- ⚡ FastAPI Backend
+- 🗄️ Database Integration
+
+---
+
+⭐ This project is actively being developed. Stay tuned for upcoming updates!
