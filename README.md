@@ -1,4 +1,4 @@
-# 🌸 Campus Planner
+#  Planner
 
 > 🚧 **Project Under Development**
 
